@@ -8,10 +8,10 @@
   <a href="https://www.linkedin.com/in/madhav-sahi-6a2305161/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="madhavsahi16@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:madhavsahi16@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"/>
   </a>
-  <a href="https://twitter.com/Madhavvv_">
+  <a href="https://github.com/MadhavSahi">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://madhavsahi.hashnode.dev/">
@@ -34,11 +34,11 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Patiala, India.
 
-- :telescope: I’m working as a Software Engineer and contributing to Frontend and Backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to Frontend and Backend for building Web Applications.
 
 - :seedling: Currently learning more of Web Development using JavaScript from iNeuron Web Development Bootcamp.
 
-- :zap: I'm currently having 1.5 + years of experience.
+- :zap: I'm currently having 1.7 + years of experience.
 
 - :arrow_right: How to reach me :  [![Linkedin Badge](https://img.shields.io/badge/-MadhavSahi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-sahi-6a2305161/)
 
@@ -80,7 +80,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :file_folder: My Repositories :
+### :file_folder: My Repositories/MonoRepos :
 
 - [Full Stack JavaScript BootCamp](https://github.com/MadhavSahi/FullStack-JavaScript-2022-23 "Repo Link")
 
