@@ -5,19 +5,19 @@
   
   <hr>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/madhav-sahi-6a2305161/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/madhav-sahi-6a2305161/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&mailto={{madhavsahi16@gmail.com}}">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=madhavsahi16.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"/>
   </a>
-  <a href="https://github.com/MadhavSahi">
+  <a href="https://github.com/MadhavSahi" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://madhavsahi.hashnode.dev/">
+  <a href="https://madhavsahi.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="HashNode Badge"/>
   </a>
-  <a href="https://twitter.com/Madhavvv_">
+  <a href="https://twitter.com/Madhavvv_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
