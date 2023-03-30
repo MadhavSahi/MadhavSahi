@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/madhav-sahi-6a2305161/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to={{madhavsahi16@gmail.com}}">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&mailto={{madhavsahi16@gmail.com}}">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"/>
   </a>
   <a href="https://github.com/MadhavSahi">
