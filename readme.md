@@ -32,13 +32,13 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Patiala, India.
+I am a ReactJS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Patiala, India.
 
-- :telescope: I’m working as a Software Engineer and contributing to Frontend and Backend for building Web Applications.
+- :telescope: I’m working as a Software Developer(Frontend) in MNC.
 
-- :seedling: Currently learning more of Web Development using JavaScript from iNeuron Web Development Bootcamp.
+- :seedling: Currently learning more of Full Stack Web Development using JavaScript.
 
-- :zap: I'm currently having 1.7 + years of experience.
+- :zap: I'm currently having 2 + years of experience.
 
 - :arrow_right: How to reach me :  [![Linkedin Badge](https://img.shields.io/badge/-MadhavSahi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-sahi-6a2305161/)
 
