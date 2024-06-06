@@ -38,7 +38,7 @@ I am a ReactJS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: Currently learning more of Full Stack Web Development using JavaScript.
 
-- :zap: I'm currently having 2 + years of experience.
+- :zap: I'm currently having 3 + years of experience.
 
 - :arrow_right: How to reach me :  [![Linkedin Badge](https://img.shields.io/badge/-MadhavSahi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-sahi-6a2305161/)
 
