@@ -34,7 +34,7 @@
 ### :man_technologist: About Me :
 I am a ReactJS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Patiala, India.
 
-- :telescope: I’m working as a Software Developer(Frontend) in MNC in Gurugram, Haryana.
+- :telescope: I’m working as a Software Developer(Frontend) in a MNC in Gurugram, Haryana.
 
 - :seedling: Currently learning more of Full Stack Web Development using JavaScript.
 
